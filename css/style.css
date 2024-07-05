@@ -1,0 +1,22 @@
+.picture{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+.Education{
+    background-color: rgb(200, 172, 208);
+}
+
+.card{
+    img{
+        height:30vh;
+    }
+}
+
+.Aboutme .feature-icon{
+    border-radius: 5px;
+}
+.footer1{
+    background-color: rgb(226, 195, 214);
+    height: 60px;
+}
